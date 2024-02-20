@@ -1,1 +1,2 @@
-# LLM_Retrieval_Augmented_Generation_-RAG-
+# Template for using RAG and GPT-4
+
